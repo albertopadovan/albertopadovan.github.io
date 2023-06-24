@@ -1,11 +1,12 @@
 title: Alberto Padovan # your name (or website title) here
 logo: "/images/profile_photo_circle_crop.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Postdoctoral Research Associate at University of Illinois at Urbana-Champaign
+  Postdoctoral Research Associate at University of Illinois, Urbana-Champaign
   <br><br>
   Fluid Mechanics | Flow Control | Model Reduction | Dynamical Systems Theory
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://scholar.google.com/citations?user=ewFYOZkAAAAJ&hl=en">Google Scholar | 
+  <a href="https://www.linkedin.com/feed/">LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
