@@ -21,7 +21,7 @@ Related publications and preprints:
 
 
 -------------------
-**Projection-Based Reduced-Order Models for Highly Non-Normal Fluid Flow**
+**Projection-Based Reduced-Order Models for Highly Non-Normal Fluid Flows**
 
 Simulating the flow of a fluid using classical computational fluid dynamics techniques is often an expensive task. The field of model reduction concerns itself with the development of mathematically-sound methods to identify reduced-order (or surrogate) models that can be used to accurately predict the behavior of the fluid at a fraction of the computational cost of classical methods.
 Projection-based reduced-order models are a class of models obtained by projecting the governing equations of a fluid onto a (usually linear) low-dimensional space.
