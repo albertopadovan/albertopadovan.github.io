@@ -1,7 +1,7 @@
 ## Research
 
 -------------------
-*** The Harmonic Resolvent Framework for Time-Periodic Fluid Flows ***
+**The Harmonic Resolvent Framework for Time-Periodic Fluid Flows**
 
 Fluid flows that exhibit time-periodic behavior, or that evolve in the proximity of time-periodic orbits, are ubiquitous in nature and engineering.
 Some examples include wake flows, jets and mixing layers at moderately low Reynolds number, flows in turbomachinery and rotorcraft, as well as some wall-bounded laminar and turbulent flows. 
