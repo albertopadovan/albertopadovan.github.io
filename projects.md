@@ -12,5 +12,5 @@ We show that studying the structure of this operator allows to extract insightfu
 <br><br>
 
 Related publications:
-- 1
-- 2
+- <b>Padovan, A.</b>, Otto, S.E. and Rowley, C.W., [Analysis of amplification mechanisms and cross-frequency interactions in nonlinear flows via the harmonic resolvent](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/analysis-of-amplification-mechanisms-and-crossfrequency-interactions-in-nonlinear-flows-via-the-harmonic-resolvent/49CEFC0FDF1E6F395E4CD97001832B5F), <i> J. of Fluid Mechanics </i>, 2020
+- <b>Padovan, A.</b> and Rowley, C.W., [Analysis of the dynamics of subharmonic flow structures via the harmonic resolvent: Application to vortex pairing in an axisymmetric jet](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.073903), <i> Physical Review Fluid </i>, 2022
