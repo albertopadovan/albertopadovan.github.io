@@ -12,7 +12,6 @@ In this work, we introduce the harmonic resolvent framework as a tool to study t
 The harmonic resolvent operator can be understood as a frequency-domain linear input-output operator that governs how a fluid flow responds to harmonic excitation.
 We show that studying the structure of this operator allows to extract insightful information on the physics of the underlying fluid, and to develop reduced-order models for prediction and control.
 </p>
-
 <br>
 
 Related publications and preprints:
@@ -34,7 +33,6 @@ Typically, these are advection-dominated flows that exhibit travelling-wave-like
 The first method proposed herein yields an optimal projection operator by minimizing the error between observations collected via direct numerical simulation and the prediction computed using the projection-based model.
 The second method yields a projection operator obtain by diagonalizing the state and gradient covariances matrices, which we compute by performing forward and adjoint direct numerical simulations.
 </p>
-
 <br>
 
 Related publications and preprints:
