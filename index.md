@@ -1,4 +1,6 @@
-## Portfolio
+## Research
+
+I am a Postdoctoral Research Associate working with <a href="https://scholar.google.com/citations?user=ewFYOZkAAAAJ&hl=en">[Professor Daniel Bodony] in the Department of Aerospace Engineering at the University of Illinois at Urbana-Champaign.
 
 ---
 
