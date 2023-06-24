@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://scholar.google.com/citations?user=ewFYOZkAAAAJ&hl=en">Google Scholar</a> | 
   <a href="https://www.linkedin.com/in/alberto-padovan-7b0416272/">LinkedIn</a>
   <br><br>
-  <a href="/sample_page">Proj 1</a>
+  <a href="/index">About Me</a>
    
   
 remote_theme: pages-themes/minimal@v0.2.0
