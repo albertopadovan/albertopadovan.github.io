@@ -1,6 +1,6 @@
 ## Research
 
-I am a Postdoctoral Research Associate working with Professor Daniel Bodony in the Department of Aerospace Engineering at the University of Illinois at Urbana-Champaign. 
+I am a Postdoctoral Research Associate working with Professor Daniel Bodony in the Department of Aerospace Engineering at the University of Illinois at Urbana-Champaign. I am also part of the Center for Hypersonics & Entry Systems Studies (CHESS) at the University of Illinois, where I work on the development of computational and theoretical frameworks for the analysis and model reduction of high-speed flows over ablating materials. 
 
 ---
 
