@@ -1,6 +1,6 @@
 ## Research
 
-Below is a list of current and past projections that I am/was involved in.
+Below is a list of current and past projects that I am/was involved in.
 
 -------------------
 **The Harmonic Resolvent Framework for Time-Periodic Fluid Flows**
