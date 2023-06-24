@@ -1,8 +1,9 @@
 ## Research
 
-I am a Postdoctoral Research Associate working with Professor Daniel Bodony in the Department of Aerospace Engineering at the University of Illinois at Urbana-Champaign. Specifically, I am also part of the Center for Hypersonics & Entry Systems Studies (CHESS) at the University of Illinois, where I work on the development of computational and theoretical frameworks for the analysis and model reduction of high-speed flows over ablating materials.
+I am a Postdoctoral Research Associate working with [Professor Daniel Bodony](http://acoustics.ae.illinois.edu/) in the Department of Aerospace Engineering at the University of Illinois at Urbana-Champaign.
+More specifically, I am part of the Center for Hypersonics & Entry Systems Studies, where I work on the development of computational and theoretical frameworks for the analysis and model reduction of high-speed fluid flows over ablating materials.
 Before my current position at the University of Illinois, I obtained my Ph.D. from the Department of Mechanical and Aerospace Engineering at Princeton University under the supervision of Professor Clancy Rowley. My dissertation work focused on the development of frequency-domain methods for the analysis, model reduction and control of fluid flows that exhibit time-periodic dynamics.
-Overall, I enjoy studying fluids through the lens of dynamical systems theory and controls theory.
+My research is computational and theoretical in nature and, broadly speaking, I am interested in studying and modelling complex fluid flows through the lens of dynamical systems and controls systems theory. 
 
 
 ---
