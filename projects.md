@@ -29,7 +29,7 @@ Simulating the flow of a fluid using classical computational fluid dynamics tech
 Projection-based reduced-order models are a class of models obtained by projecting the governing equations of a fluid onto a (usually linear) low-dimensional space.
 The predictive accuracy of these models and their properties (e.g., stability) depend heavily on the projection operators that are used to define them.
 In this work, we propose two different approaches to define projection operators that yield reduced-order models that can accurately predict the behvior of highly non-normal fluid flows.
-Typically, these are advection-dominated flows that exhibit travelling-wave-like behavior (e.g., jets and mixing layers), and it is well-known that these features pose a significant challenges for most classes of model reduction techniques.
+Typically, these are advection-dominated flows that exhibit travelling-wave-like behavior (e.g., jets and mixing layers), and it is well-known that these features pose significant challenges for most classes of model reduction techniques.
 The first method proposed herein yields an optimal projection operator by minimizing the error between observations collected via direct numerical simulation and the prediction computed using the projection-based model.
 The second method yields a projection operator obtain by diagonalizing the state and gradient covariances matrices, which we compute by performing forward and adjoint direct numerical simulations.
 </p>
