@@ -37,7 +37,7 @@ The second method yields a projection operator obtain by diagonalizing the state
 
 Related publications and preprints:
 - Otto, S.E., <b>Padovan, A.</b> and Rowley, C.W., [Optimizing Oblique Projections for Nonlinear Systems using Trajectories](https://epubs.siam.org/doi/10.1137/21M1425815), <i>SIAM Journal on Scientific Computing</i>, 2022
-- Otto, S.E., <b>Padovan, A.</b> and Rowley, C.W., [Model Reduction for Nonlinear Systems by Balanced Truncation of State and Gradient Covariance](https://arxiv.org/abs/2207.14387), arXiv:2207.14387, 2022
+- Otto, S.E., <b>Padovan, A.</b> and Rowley, C.W., [Model Reduction for Nonlinear Systems by Balanced Truncation of State and Gradient Covariance](https://epubs.siam.org/doi/full/10.1137/22M1513228),  <i>SIAM Journal on Scientific Computing</i>, 2023
 
 
 
