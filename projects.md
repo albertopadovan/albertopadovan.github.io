@@ -14,11 +14,11 @@ We show that studying the structure of this operator allows to extract insightfu
 </p>
 <br>
 
-Related publications and preprints:
+Related journal publications:
 - <b>Padovan, A.</b>, Otto, S.E. and Rowley, C.W., [Analysis of amplification mechanisms and cross-frequency interactions in nonlinear flows via the harmonic resolvent](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/analysis-of-amplification-mechanisms-and-crossfrequency-interactions-in-nonlinear-flows-via-the-harmonic-resolvent/49CEFC0FDF1E6F395E4CD97001832B5F), <i> Journal of Fluid Mechanics </i>, 2020
 - <b>Padovan, A.</b> and Rowley, C.W., [Analysis of the dynamics of subharmonic flow structures via the harmonic resolvent: Application to vortex pairing in an axisymmetric jet](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.073903), <i> Physical Review Fluids </i>, 2022
 - Wu, W., Meneveau, C., Mittal, R., <b>Padovan, A.</b>, Rowley, C.W. and Cattafesta, L., [Response of a turbulent separation bubble to zero-net-mass-flux jet perturbations](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.084601), <i> Physical Review Fluids </i>, 2022
-- <b>Padovan, A.</b> and Rowley, C.W., [Continuous-time balanced truncation for time-periodic fluid flows using frequential Gramians](https://arxiv.org/abs/2208.13245), arXiv:2208.13245, 2022
+- <b>Padovan, A.</b> and Rowley, C.W., [Continuous-time balanced truncation for time-periodic fluid flows using frequential Gramians](https://www.sciencedirect.com/science/article/pii/S0021999123006927?via%3Dihub), <i>Journal of Computational Physics</i>, 2023
 
 
 -------------------
@@ -35,7 +35,7 @@ The second method yields a projection operator obtain by diagonalizing the state
 </p>
 <br>
 
-Related publications and preprints:
+Related journal publications:
 - Otto, S.E., <b>Padovan, A.</b> and Rowley, C.W., [Optimizing Oblique Projections for Nonlinear Systems using Trajectories](https://epubs.siam.org/doi/10.1137/21M1425815), <i>SIAM Journal on Scientific Computing</i>, 2022
 - Otto, S.E., <b>Padovan, A.</b> and Rowley, C.W., [Model Reduction for Nonlinear Systems by Balanced Truncation of State and Gradient Covariance](https://epubs.siam.org/doi/full/10.1137/22M1513228),  <i>SIAM Journal on Scientific Computing</i>, 2023
 
