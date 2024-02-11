@@ -31,7 +31,7 @@ The predictive accuracy of these models and their properties (e.g., stability) d
 In this work, we propose two different approaches to define projection operators that yield reduced-order models that can accurately predict the behvior of highly non-normal fluid flows.
 Typically, these are advection-dominated flows that exhibit travelling-wave-like behavior (e.g., jets and mixing layers), and it is well-known that these features pose significant challenges for most classes of model reduction techniques.
 The first method proposed herein yields an optimal projection operator by minimizing the error between observations collected via direct numerical simulation and the prediction computed using the projection-based model.
-The second method yields a projection operator obtain by diagonalizing the state and gradient covariances matrices, which we compute by performing forward and adjoint direct numerical simulations.
+The second method yields a projection operator obtained by diagonalizing the state and gradient covariances matrices associated with the solution map of the full-order system.
 </p>
 <br>
 
