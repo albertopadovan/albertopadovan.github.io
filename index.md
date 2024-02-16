@@ -1,5 +1,5 @@
 ## About Me
-I am a Postdoctoral Research Associate working with Professor [Daniel Bodony](http://acoustics.ae.illinois.edu/) in the Department of Aerospace Engineering at the University of Illinois at Urbana-Champaign.
+I am a Postdoctoral Research Associate working with Professor <a href="http://acoustics.ae.illinois.edu/">Daniel Bodony</a> in the Department of Aerospace Engineering at the University of Illinois at Urbana-Champaign.
 More specifically, I am part of the Center for Hypersonics & Entry Systems Studies ([CHESS](https://chess.grainger.illinois.edu/)), where I focus on the development of computational and theoretical methods for the analysis and model reduction of high-speed fluid flows over ablating materials.
 <br>
 
