@@ -17,7 +17,7 @@ This new method exhibits excellent performance on several nonlinear systems that
 </p>
 <br>
 
-Related preprints:
+Related journal publications:
 - <b>Padovan, A.</b>, Vollmer, B. and Bodony, D.J., Data-driven model reduction via non-intrusive optimization of projection operators and reduced-order dynamics, <i>SIAM Journal on Applied Dynamical Systems</i>, 2024 (to appear) <a href="https://arxiv.org/abs/2401.01290" target="_blank">[link]</a>
 
 
@@ -55,8 +55,8 @@ The second method yields a projection operator obtained by diagonalizing the sta
 <br>
 
 Related journal publications:
-- Otto, S.E., <b>Padovan, A.</b> and Rowley, C.W., [Optimizing Oblique Projections for Nonlinear Systems using Trajectories](https://epubs.siam.org/doi/10.1137/21M1425815), <i>SIAM Journal on Scientific Computing</i>, 2022
-- Otto, S.E., <b>Padovan, A.</b> and Rowley, C.W., [Model Reduction for Nonlinear Systems by Balanced Truncation of State and Gradient Covariance](https://epubs.siam.org/doi/full/10.1137/22M1513228),  <i>SIAM Journal on Scientific Computing</i>, 2023
+- Otto, S.E., <b>Padovan, A.</b> and Rowley, C.W., Optimizing Oblique Projections for Nonlinear Systems using Trajectories, <i>SIAM Journal on Scientific Computing</i>, 2022 <a href="https://epubs.siam.org/doi/10.1137/21M1425815" target="_blank">[link]</a>
+- Otto, S.E., <b>Padovan, A.</b> and Rowley, C.W., Model Reduction for Nonlinear Systems by Balanced Truncation of State and Gradient Covariance, <i>SIAM Journal on Scientific Computing</i>, 2023 <a href="https://epubs.siam.org/doi/full/10.1137/22M1513228" target="_blank">[link]</a>
 
 
 
