@@ -18,7 +18,7 @@ This new method exhibits excellent performance on several nonlinear systems that
 <br>
 
 Related preprints:
-- <b>Padovan, A.</b>, Vollmer, B. and Bodony, D.J., <a href="https://arxiv.org/abs/2401.01290" target="_blank">Data-driven model reduction via non-intrusive optimization of projection operators and reduced-order dynamics</a>, <i> SIAM Journal on Applied Dynamical Systems </i>, 2024 (to appear)
+- <b>Padovan, A.</b>, Vollmer, B. and Bodony, D.J., Data-driven model reduction via non-intrusive optimization of projection operators and reduced-order dynamics, <i> SIAM Journal on Applied Dynamical Systems</i>, 2024 (to appear) <a href="https://arxiv.org/abs/2401.01290" target="_blank">[link]</a>
 
 
 -------------------
