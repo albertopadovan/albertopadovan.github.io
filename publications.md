@@ -45,4 +45,16 @@
     box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
     outline: none;
 }
+
+/* Justify the text of publication entries */
+.publication-list {
+    text-align: justify;
+}
+
+/* Adjust the font size of the year headings */
+h2[data-year] {
+    font-size: 1.2em; /* Adjust this value as needed */
+    margin-top: 20px; /* Adjust the top margin if needed */
+    margin-bottom: 10px; /* Adjust the bottom margin if needed */
+}
 </style>
