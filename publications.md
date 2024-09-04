@@ -29,7 +29,7 @@
 
    <!-- 2020 Publications -->
    <h2 data-year="2020">2020</h2>
-   <ul class="publication-list" data-year="2023">
+   <ul class="publication-list" data-year="2020">
        <li class="publication"><b>Padovan, A.</b>, Otto, S.E. and Rowley, C.W., "Analysis of amplification mechanisms and cross-frequency interactions in nonlinear flows via the harmonic resolvent," <i>Journal of Fluid Mechanics</i>, 2020 <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/analysis-of-amplification-mechanisms-and-crossfrequency-interactions-in-nonlinear-flows-via-the-harmonic-resolvent/49CEFC0FDF1E6F395E4CD97001832B5F" target="_blank">[link]</a> <a href="manuscripts/PadovanOttoRowley_JFM2020.pdf" target="_blank">[pdf]</a></li>
    </ul>
 </div>
