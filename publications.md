@@ -1,7 +1,7 @@
 # Publications
 
 <!-- Search Bar -->
-<input type="text" id="searchInput" onkeyup="searchPublications()" placeholder="Search by year..">
+<input type="text" id="searchInput" onkeyup="searchPublications()" placeholder="Search by year...">
 
 <div id="publicationList">
    <!-- 2024 Publications -->
