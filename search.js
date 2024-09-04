@@ -1,9 +1,9 @@
 function searchPublications() {
     let input = document.getElementById('searchInput').value.toLowerCase();
-    let sections = document.querySelectorAll('h2, ul.publication-list');
+    let publications = document.querySelectorAll('h2, ul.publication-list');
     
-    sections.forEach(section => {
-        let year = section.dataset.year;
+    publications.forEach(section => {
+        let year = section.getAttribute('data-year');
         if (year && year.includes(input)) {
             section.style.display = '';  // Show the section
         } else if (year) {
