@@ -9,6 +9,7 @@
    <ul class="publication-list" data-year="2024">
        <li class="publication"><b>Padovan, A.</b>, Vollmer, B. and Bodony, D.J., Data-driven model reduction via non-intrusive optimization of projection operators and reduced-order dynamics, <i>SIAM Journal on Applied Dynamical Systems</i>, 2024 (to appear) <a href="https://arxiv.org/abs/2401.01290" target="_blank">[link]</a></li>
        <li class="publication"><b>Padovan, A.</b> and Rowley, C.W., Continuous-time balanced truncation for time-periodic fluid flows using frequential Gramians, <i>Journal of Computational Physics</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0021999123006927?via%3Dihub" target="_blank">[link]</a> <a href="manuscripts/PadovanRowley_JCP2024.pdf" target="_blank">[pdf]</a></li>
+       <li class="publication"><b>Padovan, A.</b>, Vollmer, B., Panerai, F., Panesi, M., Stephani, K.A. and Bodony D.J., An extended B′ formulation for ablating-surface boundary conditions, <i>International Journal of Heat and Mass Transfer</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0017931023009158" target="_blank">[link]</a> <a href="manuscripts/PadovanEtAl_IJHMT2024.pdf" target="_blank">[pdf]</a></li>
    </ul>
 
    <!-- 2023 Publications -->
