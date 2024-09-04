@@ -18,7 +18,7 @@ This new method exhibits excellent performance on several nonlinear systems that
 <br>
 
 Related preprints:
-- <b>Padovan, A.</b>, Vollmer, B. and Bodony, D.J., Data-driven model reduction via non-intrusive optimization of projection operators and reduced-order dynamics, <i> SIAM Journal on Applied Dynamical Systems</i>, 2024 (to appear) <a href="https://arxiv.org/abs/2401.01290" target="_blank">[link]</a>
+- <b>Padovan, A.</b>, Vollmer, B. and Bodony, D.J., Data-driven model reduction via non-intrusive optimization of projection operators and reduced-order dynamics, <i>SIAM Journal on Applied Dynamical Systems</i>, 2024 (to appear) <a href="https://arxiv.org/abs/2401.01290" target="_blank">[link]</a>
 
 
 -------------------
@@ -34,10 +34,10 @@ We show that studying the structure of this operator allows to extract insightfu
 <br>
 
 Related journal publications:
-- <b>Padovan, A.</b>, Otto, S.E. and Rowley, C.W., [Analysis of amplification mechanisms and cross-frequency interactions in nonlinear flows via the harmonic resolvent](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/analysis-of-amplification-mechanisms-and-crossfrequency-interactions-in-nonlinear-flows-via-the-harmonic-resolvent/49CEFC0FDF1E6F395E4CD97001832B5F), <i> Journal of Fluid Mechanics </i>, 2020 <a href="manuscripts/PadovanOttoRowley_JFM2020.pdf" target="_blank">[pdf]</a>
-- <b>Padovan, A.</b> and Rowley, C.W., [Analysis of the dynamics of subharmonic flow structures via the harmonic resolvent: Application to vortex pairing in an axisymmetric jet](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.073903), <i> Physical Review Fluids </i>, 2022
-- Wu, W., Meneveau, C., Mittal, R., <b>Padovan, A.</b>, Rowley, C.W. and Cattafesta, L., [Response of a turbulent separation bubble to zero-net-mass-flux jet perturbations](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.084601), <i> Physical Review Fluids </i>, 2022
-- <b>Padovan, A.</b> and Rowley, C.W., [Continuous-time balanced truncation for time-periodic fluid flows using frequential Gramians](https://www.sciencedirect.com/science/article/pii/S0021999123006927?via%3Dihub), <i>Journal of Computational Physics</i>, 2023
+- <b>Padovan, A.</b>, Otto, S.E. and Rowley, C.W., Analysis of amplification mechanisms and cross-frequency interactions in nonlinear flows via the harmonic resolvent, <i>Journal of Fluid Mechanics</i>, 2020 <a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/analysis-of-amplification-mechanisms-and-crossfrequency-interactions-in-nonlinear-flows-via-the-harmonic-resolvent/49CEFC0FDF1E6F395E4CD97001832B5F" target="_blank">[link]</a> <a href="manuscripts/PadovanOttoRowley_JFM2020.pdf" target="_blank">[pdf]</a>
+- <b>Padovan, A.</b> and Rowley, C.W., Analysis of the dynamics of subharmonic flow structures via the harmonic resolvent: Application to vortex pairing in an axisymmetric jet, <i>Physical Review Fluids</i>, 2022 <a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.073903" target="_blank">[link]</a> <a href="manuscripts/PadovanRowley_PRF2022.pdf" target="_blank">[pdf]</a> 
+- Wu, W., Meneveau, C., Mittal, R., <b>Padovan, A.</b>, Rowley, C.W. and Cattafesta, L., Response of a turbulent separation bubble to zero-net-mass-flux jet perturbations, <i>Physical Review Fluids</i>, 2022 <a href="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.084601" target="_blank">[link]</a> <a href="manuscripts/WuEtAl_PRF2022.pdf" target="_blank">[pdf]</a> 
+- <b>Padovan, A.</b> and Rowley, C.W., Continuous-time balanced truncation for time-periodic fluid flows using frequential Gramians, <i>Journal of Computational Physics</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0021999123006927?via%3Dihub" target="_blank">[link]</a> <a href="manuscripts/PadovanRowley_JCP2024.pdf" target="_blank">[pdf]</a>
 
 
 -------------------
