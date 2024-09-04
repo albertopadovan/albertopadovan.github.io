@@ -12,6 +12,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="/index">About Me</a>
   <br>
   <a href="/projects">Research</a>
+  <br>
+  <a href="/publications">Publications</a>
    
   
 remote_theme: pages-themes/minimal@v0.2.0
