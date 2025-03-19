@@ -11,7 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="/index">About Me</a>
   <br>
-  <a href="/news">Recent News</a>
+  <a href="/recent_news">Recent News</a>
   <br>
   <a href="/projects">Research</a>
   <br>
