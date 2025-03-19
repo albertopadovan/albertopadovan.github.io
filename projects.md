@@ -24,10 +24,14 @@ Related journal publications:
 
 -------------------
 **Hypersonics-related work at <a href="https://chess.grainger.illinois.edu/" target="_blank">[CHESS]</a>**
+
+<p align="justify">
 At the Center for Hypersonics and Entry Systems Studies (CHESS), we advance the state of the art of physics-based and data-driven modeling of hypersonic systems. For example, we conduct fundamental research to understand the stability properties of supersonic and hypersonic boundary layers over ablating materials for the purpose of designing thermal protection systems for atmospheric reentry. Along the same lines, we develop physics-grounded interface jump conditions to accurately capture the mass, energy and momentum transfer at the interface between a fluid flow and an ablating material.
 Additionally, we develop reduced-order models for thermochemical non-equilibrium kinetics to significantly reduce the computational cost associated with simulating hypersonic flows in thermochemical non-equilibrium.
+</p>
+<br>
 
-Related journal publications:
+Related journal publications (and preprints):
 - Vollmer, B.,  <b>Padovan, A.</b> and Bodony, D.J. "Surface instabilities in laminar compressible boundary layers with sublimation," <i>Journal of Fluid Mechanics (Rapids)</i>, 2025 (under review) <a href="https://arxiv.org/abs/2503.11631" target="_blank">[link]</a>
 -Zanardi, I., <b>Padovan, A.</b>, Bodony, D.J. and Panesi, M. "Projection-based model reduction for thermo-chemical non-equilibrium gas mixtures," <i>Journal of Computational Physics</i>, 2024 (under review) <a href="https://arxiv.org/abs/2411.01673" target="_blank">[link]</a>
 - <b>Padovan, A.</b>, Vollmer, B., Panerai, F., Panesi, M., Stephani, K.A. and Bodony, D.J., "An extended B′ formulation for ablating-surface boundary conditions," <i>International Journal of Heat and Mass Transfer</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0017931023009158" target="_blank">[link]</a> <a href="manuscripts/PadovanEtAl_IJHMT2024.pdf" target="_blank">[pdf]</a>
