@@ -6,7 +6,7 @@
 <div id="publicationList">
    <!-- 2025 Publications -->
    <h2 data-year="2024">2024</h2>
-   <ul class="publication-list" data-year="2024">
+   <ul class="publication-list" data-year="2025">
        <li class="publication">Vollmer, B.,  <b>Padovan, A.</b> and Bodony, D.J. "Surface instabilities in laminar compressible boundary layers with sublimation," <i>Journal of Fluid Mechanics (Rapids)</i>, 2025 (under review) <a href="https://arxiv.org/abs/2503.11631" target="_blank">[link]</a></li>
    </ul>
 
