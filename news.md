@@ -1,4 +1,4 @@
-## News
+## Recent News
 
 - 02/24/25: I visited the Department of Mathematics at Virginia Tech and presented our work on non-intrusive model reduction of nonlinear dynamical systems.
 - 11/27/24: I attended the APS DFD (Division of Fluid Dynamics) conference in Salt Lake City, Utah, and presented our work on non-intrusive model reduction of nonlinear dynamical systems. Collaborators presented ongoing work on reduced-order modeling for thermochemical non-equilibrium kinetics in hypersonic flows, and on the stability of compressible boundary layers of sublimating surfaces.

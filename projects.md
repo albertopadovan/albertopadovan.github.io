@@ -25,7 +25,7 @@ Related journal publications:
 **Hypersonics-related work at CHESS**
 
 <p align="justify">
-At the Center for Hypersonics and Entry Systems Studies, we advance the state of the art of physics-based and data-driven modeling of hypersonic systems. For example, we conduct fundamental research to understand the stability properties of supersonic and hypersonic boundary layers over ablating materials for the purpose of designing thermal protection systems for atmospheric reentry. Along the same lines, we develop physics-grounded interface jump conditions to accurately capture the mass, energy and momentum transfer at the interface between a fluid flow and an ablating material.
+At the Center for Hypersonics and Entry Systems Studies <a href="https://chess.grainger.illinois.edu/" target="_blank">(CHESS)</a>, we advance the state of the art of physics-based and data-driven modeling of hypersonic systems. For example, we conduct fundamental research to understand the stability properties of supersonic and hypersonic boundary layers over ablating materials for the purpose of designing thermal protection systems for atmospheric reentry. Along the same lines, we develop physics-grounded interface jump conditions to accurately capture the mass, energy and momentum transfer at the interface between a fluid flow and an ablating material.
 Additionally, we develop reduced-order models for thermochemical non-equilibrium kinetics to significantly reduce the computational cost associated with simulating hypersonic flows in thermochemical non-equilibrium.
 </p>
 <br>
