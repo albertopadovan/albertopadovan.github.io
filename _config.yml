@@ -14,6 +14,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="/projects">Research</a>
   <br>
   <a href="/publications">Publications</a>
+  <br>
+  <a href="/news">News</a>
    
   
 remote_theme: pages-themes/minimal@v0.2.0

@@ -10,7 +10,7 @@ I obtained my Ph.D. from Princeton University under the supervision of Professor
 </p>
 
 <p align="justify">
-My research is computational and theoretical in nature and, broadly speaking, I am interested in studying and modelling complex fluid flows through the lens of dynamical systems and control theory.
+My research is computational and theoretical and, broadly speaking, I am interested in studying and modelling complex fluid flows through the lens of dynamical systems and control theory.
 </p>
 
 
