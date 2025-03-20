@@ -2,7 +2,7 @@
 
 - <b>02/24/25</b>: I visited the Department of Mathematics at Virginia Tech and presented our work on non-intrusive model reduction of nonlinear dynamical systems.
 
-- <b>11/27/24</b>: I attended the APS DFD (Division of Fluid Dynamics) conference in Salt Lake City, Utah, and presented our work on non-intrusive model reduction of nonlinear dynamical systems. Collaborators presented ongoing work on reduced-order modeling for thermochemical non-equilibrium kinetics in hypersonic flows, and on the stability of compressible boundary layers of sublimating surfaces.
+- <b>11/27/24</b>: I attended the APS DFD (Division of Fluid Dynamics) conference in Salt Lake City, Utah, and presented our work on non-intrusive model reduction of nonlinear dynamical systems. Collaborators presented ongoing work on reduced-order modeling for thermochemical non-equilibrium kinetics in hypersonic flows, and on the stability of compressible boundary layers over sublimating surfaces.
 
 - <b>10/11/24</b>: I presented our work on non-intrusive reduced-order modeling at the Remote Colloquium on Vortex-dominated flows (ReCoVor).
 
