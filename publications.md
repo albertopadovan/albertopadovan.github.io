@@ -7,13 +7,13 @@
    <!-- 2025 Publications -->
    <h2 data-year="2025">2025</h2>
    <ul class="publication-list" data-year="2025">
-       <li class="publication">Vollmer, B.,  <b>Padovan, A.</b> and Bodony, D.J. "Surface instabilities in laminar compressible boundary layers with sublimation," <i>Journal of Fluid Mechanics (Rapids)</i>, 2025 (under review) <a href="https://arxiv.org/abs/2503.11631" target="_blank">[link]</a></li>
+       <li class="publication">Vollmer, B.,  <b>Padovan, A.</b> and Bodony, D.J. "Surface instabilities in laminar compressible boundary layers with sublimation," <i>Journal of Fluid Mechanics</i>, 2025 (under review) <a href="https://arxiv.org/abs/2503.11631" target="_blank">[link]</a></li>
+       <li class="publication">Zanardi, I., <b>Padovan, A.</b>, Bodony, D.J. and Panesi, M. "Projection-based model reduction for thermo-chemical non-equilibrium gas mixtures," <i>Journal of Computational Physics</i>, 2025 <a href="https://www.sciencedirect.com/science/article/pii/S0021999125002827?via%3Dihub" target="_blank">[link]</a> <a href="manuscripts/ZanardiEtAl_JCP2025.pdf" target="_blank">[pdf]</a></li>
    </ul>
 
    <!-- 2024 Publications -->
    <h2 data-year="2024">2024</h2>
    <ul class="publication-list" data-year="2024">
-       <li class="publication">Zanardi, I., <b>Padovan, A.</b>, Bodony, D.J. and Panesi, M. "Projection-based model reduction for thermo-chemical non-equilibrium gas mixtures," <i>Journal of Computational Physics</i>, 2024 (under review) <a href="https://arxiv.org/abs/2411.01673" target="_blank">[link]</a></li>
        <li class="publication"><b>Padovan, A.</b>, Vollmer, B. and Bodony, D.J., "Data-driven model reduction via non-intrusive optimization of projection operators and reduced-order dynamics," <i>SIAM Journal on Applied Dynamical Systems</i>, 2024 <a href="https://epubs.siam.org/doi/abs/10.1137/24M1628414" target="_blank">[link]</a> <a href="manuscripts/PadovanVollmerBodony_SIADS2024.pdf" target="_blank">[pdf]</a></li>
        <li class="publication">Capponi, L., <b>Padovan, A.</b>, Elliot, G.S., Panesi, M., Bodony, D.J. and Panerai, F., "Multi-domain analysis and prediction of inductively coupled plasma jet dynamics via high-speed imaging of visible light emission," <i>Experimental Thermal and Fluid Science</i>, 2024 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0894177724001018" target="_blank">[link]</a></li>
        <li class="publication"><b>Padovan, A.</b> and Rowley, C.W., "Continuous-time balanced truncation for time-periodic fluid flows using frequential Gramians," <i>Journal of Computational Physics</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0021999123006927?via%3Dihub" target="_blank">[link]</a> <a href="manuscripts/PadovanRowley_JCP2024.pdf" target="_blank">[pdf]</a></li>
