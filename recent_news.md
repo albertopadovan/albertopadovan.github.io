@@ -1,6 +1,6 @@
 ## Recent News
 
-- <b>06/06/25</b>: I attended the Frontiers in Applied \& Computational Mathematics (FACM) conference organized by the Mathematical Sciences Department at the New Jersey Institute of Technology.
+- <b>06/06/25</b>: I attended the Frontiers in Applied & Computational Mathematics (FACM) conference organized by the Mathematical Sciences Department at the New Jersey Institute of Technology.
 
 - <b>05/07/25</b>: I attended the SIAM Conference on Dynamical Systems in Denver, CO and presented our work on non-intrusive model reduction of nonlinear dynamical systems.
 
