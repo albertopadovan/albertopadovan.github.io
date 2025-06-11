@@ -1,6 +1,5 @@
 ## Research
 
-Below is a list of current/past projects that I am/was involved in.
 
 <ul>
   <li><a href="#data-driven-model-reduction">Data-Driven Model Reduction of Nonlinear Systems</a></li>
@@ -11,7 +10,7 @@ Below is a list of current/past projects that I am/was involved in.
 
 
 -------------------
-<h3 id="data-driven-model-reduction">**Data-Driven Model Reduction of Nonlinear Systems**</h3>
+<h3 id="data-driven-model-reduction">Data-Driven Model Reduction of Nonlinear Systems</h3>
 
 <p align="justify">
 Data-driven techniques to obtain reduced-order model of nonlinear systems tend to achieve dimensionality reduction by <em>orthogonally</em> projecting the high-dimensional state vector onto a low-dimensional (possibly nonlinear) manifold.
@@ -29,7 +28,8 @@ Related journal publications:
 - <b>Padovan, A.</b>, Vollmer, B. and Bodony, D.J., "Data-driven model reduction via non-intrusive optimization of projection operators and reduced-order dynamics," <i>SIAM Journal on Applied Dynamical Systems</i>, 2024 <a href="https://epubs.siam.org/doi/abs/10.1137/24M1628414" target="_blank">[link]</a>
 
 -------------------
-**Hypersonics-Related Work at CHESS**
+<h3 id="hypersonics">Hypersonics-Related Work at CHESS</h3>
+
 
 <p align="justify">
 At the Center for Hypersonics and Entry Systems Studies <a href="https://chess.grainger.illinois.edu/" target="_blank">(CHESS)</a>, we advance the state of the art of physics-based and data-driven modeling of hypersonic systems. For example, we conduct fundamental research to understand the stability properties of supersonic and hypersonic boundary layers over ablating materials for the purpose of designing thermal protection systems for atmospheric reentry. Along the same lines, we develop physics-grounded interface jump conditions to accurately capture the mass, energy and momentum transfer at the interface between a fluid flow and an ablating material.
@@ -46,7 +46,7 @@ Related journal publications (and preprints):
 
 
 -------------------
-**The Harmonic Resolvent Framework for Time-Periodic Fluid Flows**
+<h3 id="harmonic-resolvent">The Harmonic Resolvent Framework for Time-Periodic Fluid Flows</h3>
 
 <p align="justify">
 Fluid flows that exhibit time-periodic behavior, or that evolve in the proximity of time-periodic orbits, are ubiquitous in nature and engineering.
@@ -65,7 +65,8 @@ Related journal publications:
 
 
 -------------------
-**Projection-Based Reduced-Order Models for Highly Non-Normal Fluid Flows**
+<h3 id="non-normal-roms">Projection-Based Reduced-Order Models for Highly Non-Normal Fluid Flows</h3>
+
 
 <p align="justify">
 Simulating the flow of a fluid using classical computational fluid dynamics techniques is often an expensive task. The field of model reduction concerns itself with the development of mathematically-sound methods to identify reduced-order (or surrogate) models that can be used to accurately predict the behavior of the fluid at a fraction of the computational cost of classical methods.

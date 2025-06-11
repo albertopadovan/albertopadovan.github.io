@@ -1,5 +1,11 @@
 ## Recent News
 
+- <b>06/06/25</b>: I attended the Frontiers in Applied \& Computational Mathematics (FACM) conference organized by the Mathematical Sciences Department at the New Jersey Institute of Technology.
+
+- <b>05/07/25</b>: I attended the SIAM Conference on Dynamical Systems in Denver, CO and presented our work on non-intrusive model reduction of nonlinear dynamical systems.
+
+- <b>04/02/25</b>: I attended the EUROMECH Colloquium on Data-Driven Fluid Mechanics in London, UK and presented our work on non-intrusive model reduction of nonlinear dynamical systems.
+
 - <b>02/24/25</b>: I visited the Department of Mathematics at Virginia Tech and presented our work on non-intrusive model reduction of nonlinear dynamical systems.
 
 - <b>11/27/24</b>: I attended the APS DFD (Division of Fluid Dynamics) conference in Salt Lake City, Utah, and presented our work on non-intrusive model reduction of nonlinear dynamical systems. Collaborators presented ongoing work on reduced-order modeling for thermochemical non-equilibrium kinetics in hypersonic flows, and on the stability of compressible boundary layers over sublimating surfaces.
