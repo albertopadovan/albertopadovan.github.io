@@ -5,7 +5,7 @@
   <li><a href="#data-driven-model-reduction">Data-Driven Model Reduction of Nonlinear Systems</a></li>
   <li><a href="#hypersonics">Hypersonics-Related Work at CHESS</a></li>
   <li><a href="#harmonic-resolvent">The Harmonic Resolvent Framework for Time-Periodic Fluid Flows</a></li>
-  <li><a href="#non-normal-roms">Projection-Based Reduced-Order Models for Highly Non-Normal Fluid Flows</a></li>
+  <li><a href="#non-normal-roms">Projection-Based Models for Highly Non-Normal Fluid Flows</a></li>
 </ul>
 
 
@@ -65,7 +65,7 @@ Related journal publications:
 
 
 -------------------
-<h3 id="non-normal-roms">Projection-Based Reduced-Order Models for Highly Non-Normal Fluid Flows</h3>
+<h3 id="non-normal-roms">Projection-Based Models for Highly Non-Normal Fluid Flows</h3>
 
 
 <p align="justify">
