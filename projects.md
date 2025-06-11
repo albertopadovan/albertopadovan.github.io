@@ -2,9 +2,16 @@
 
 Below is a list of current/past projects that I am/was involved in.
 
+<ul>
+  <li><a href="#data-driven-model-reduction">Data-Driven Model Reduction of Nonlinear Systems</a></li>
+  <li><a href="#hypersonics">Hypersonics-Related Work at CHESS</a></li>
+  <li><a href="#harmonic-resolvent">The Harmonic Resolvent Framework for Time-Periodic Fluid Flows</a></li>
+  <li><a href="#non-normal-roms">Projection-Based Reduced-Order Models for Highly Non-Normal Fluid Flows</a></li>
+</ul>
+
 
 -------------------
-**Data-Driven Model Reduction of Nonlinear Systems**
+<h3 id="data-driven-model-reduction">**Data-Driven Model Reduction of Nonlinear Systems**</h3>
 
 <p align="justify">
 Data-driven techniques to obtain reduced-order model of nonlinear systems tend to achieve dimensionality reduction by <em>orthogonally</em> projecting the high-dimensional state vector onto a low-dimensional (possibly nonlinear) manifold.
