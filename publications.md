@@ -7,8 +7,11 @@
    <!-- 2025 Publications -->
    <h2 data-year="2025">2025</h2>
    <ul class="publication-list" data-year="2025">
-       <li class="publication">Zanardi, I., Meini, A., <b>Padovan, A.</b>, Bodony, D.J. and Panesi, M. "Petrov-Galerkin model reduction for collisional-radiative argon plasma," <i>Journal of Computational Physics</i>, 2025 (under review) <a href="https://arxiv.org/abs/2506.05483" target="_blank">[link]</a></li>
-       <li class="publication">Vollmer, B.,  <b>Padovan, A.</b> and Bodony, D.J. "Surface instabilities in laminar compressible boundary layers with sublimation," <i>Journal of Fluid Mechanics</i>, 2025 (under review) <a href="https://arxiv.org/abs/2503.11631" target="_blank">[link]</a></li>
+       <li class="publication"><b>Padovan, A.</b>, Anantharaman, V., Rowley, C.W.,
+       Vollmer, B., Colonius, T. and Bodony, D.J., "Resolvent4py: A parallel Python package for analysis, model reduction and control of large-scale linear systems," 
+       <i>SoftwareX</i>, 2025, <a href="https://www.sciencedirect.com/science/article/pii/S2352711025002523" target="_blank">[link]</a> <a href="manuscripts/PadovanEtAl_SoftwareX2025.pdf" target="_blank">[pdf]</a></li>
+       <li class="publication">Zanardi, I., Meini, A., <b>Padovan, A.</b>, Bodony, D.J. and Panesi, M. "Petrov-Galerkin model reduction for collisional-radiative argon plasma," <i>Journal of Physics D: Applied Physics</i>, 2025 (under review) <a href="https://arxiv.org/abs/2506.05483" target="_blank">[link]</a></li>
+       <li class="publication">Vollmer, B., <b>Padovan, A.</b> and Bodony, D.J. "Surface instabilities in laminar compressible boundary layers with sublimation," <i>Journal of Fluid Mechanics</i>, 2025 (under review) <a href="https://arxiv.org/abs/2503.11631" target="_blank">[link]</a></li>
        <li class="publication">Zanardi, I., <b>Padovan, A.</b>, Bodony, D.J. and Panesi, M. "Projection-based model reduction for thermo-chemical non-equilibrium gas mixtures," <i>Journal of Computational Physics</i>, 2025 <a href="https://www.sciencedirect.com/science/article/pii/S0021999125002827?via%3Dihub" target="_blank">[link]</a> <a href="manuscripts/ZanardiEtAl_JCP2025.pdf" target="_blank">[pdf]</a></li>
    </ul>
 

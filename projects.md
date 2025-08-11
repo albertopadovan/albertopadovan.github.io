@@ -39,7 +39,7 @@ Additionally, we develop reduced-order models for thermochemical non-equilibrium
 
 Related journal publications (and preprints):
 - Vollmer, B.,  <b>Padovan, A.</b> and Bodony, D.J. "Surface instabilities in laminar compressible boundary layers with sublimation," <i>Journal of Fluid Mechanics (Rapids)</i>, 2025 (under review) <a href="https://arxiv.org/abs/2503.11631" target="_blank">[link]</a>
-- Zanardi, I., <b>Padovan, A.</b>, Bodony, D.J. and Panesi, M. "Projection-based model reduction for thermo-chemical non-equilibrium gas mixtures," <i>Journal of Computational Physics</i>, 2024 (under review) <a href="https://arxiv.org/abs/2411.01673" target="_blank">[link]</a>
+- Zanardi, I., <b>Padovan, A.</b>, Bodony, D.J. and Panesi, M. "Projection-based model reduction for thermo-chemical non-equilibrium gas mixtures," <i>Journal of Computational Physics</i>, 2025 <a href="https://www.sciencedirect.com/science/article/pii/S0021999125002827?via%3Dihub" target="_blank">[link]</a> <a href="manuscripts/ZanardiEtAl_JCP2025.pdf" target="_blank">[pdf]</a>
 - <b>Padovan, A.</b>, Vollmer, B., Panerai, F., Panesi, M., Stephani, K.A. and Bodony, D.J., "An extended B′ formulation for ablating-surface boundary conditions," <i>International Journal of Heat and Mass Transfer</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0017931023009158" target="_blank">[link]</a> <a href="manuscripts/PadovanEtAl_IJHMT2024.pdf" target="_blank">[pdf]</a>
 
 
