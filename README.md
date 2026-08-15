@@ -13,7 +13,7 @@ corresponding page on the group site:
 |---|---|
 | `/`, `/index` | `/apgroup/` |
 | `/publications` | `/apgroup/publications/` |
-| `/projects` | `/apgroup/research/` |
+| `/projects` | `/apgroup/` |
 | `/recent_news` | `/apgroup/allnews.html` |
 | `/manuscripts/*.pdf` | (kept in place; also mirrored at `/apgroup/papers/`) |
 
