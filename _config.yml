@@ -1,24 +1,4 @@
-title: Alberto Padovan # your name (or website title) here
-logo: "/images/profile_photo.png" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Assistant Professor at New Jersey Institute of Technology
-  <br><br>
-  Fluid Mechanics | Flow Control | Model Reduction | Dynamical Systems Theory
-  <br><br>
-  <a href="mailto: alberto.padovan@njit.edu" target="_blank">Email</a> |
-  <a href="https://scholar.google.com/citations?user=qIsV2HwAAAAJ&hl=en" target="_blank">Google Scholar</a> | 
-  <a href="https://www.linkedin.com/in/alberto-padovan-7b0416272/" target="_blank">LinkedIn</a>
-  <br><br>
-  <a href="/index">About Me</a>
-  <br>
-  <a href="/recent_news">Recent News</a>
-  <br>
-  <a href="/publications">Publications</a>
-  <br>
-  <a href="/projects">Research</a>
-   
-  
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+title: Alberto Padovan
+description: >
+  This site has moved. Content now lives at
+  https://albertopadovan.github.io/apgroup/
